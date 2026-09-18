@@ -9,7 +9,7 @@ Supported platforms include **Steam**, **Epic Games Store**, and **Ubisoft Conne
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/CreamAPI-DLC-Unlocker-2026/.github/releases)
 
 ---
 
